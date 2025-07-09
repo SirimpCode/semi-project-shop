@@ -28,7 +28,7 @@ spring:
     username: ENC(tBOBH7aOREOgndD7L9SZOB311JqKHImI)
     password: ENC(N1H6zRdGq5YiEpqkTKXG5g==)
     driver-class-name: oracle.jdbc.OracleDriver
-    url: ENC(Q8RI4B/WgDTy3GxENPg1/jPBuPqEdLOFs7KPV4pL87j5cu2r4tR8bJF757DaEjla)
+    url: ENC(UMWdkGrqcmangDTdrsQaKk5C28C19hggT5+x8w2LWAJN2L646K+DZzGi2aw7SRjM)
   mail:
     host: smtp.gmail.com
     port: 587
