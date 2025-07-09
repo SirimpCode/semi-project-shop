@@ -79,7 +79,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 35px 40px 50px 40px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 #header .logo {
