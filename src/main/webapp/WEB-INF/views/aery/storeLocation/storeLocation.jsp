@@ -294,8 +294,8 @@
 			         $("div#map_container > div.map").css('display','none');
 			  
 			         $(`div#map_container > div.map:eq(\${index})`).css('display','block');
-			      // console.log("확인용 => ", $(`div#map_container > div.map:eq(\${index})`).html()); 
-				   
+			      // console.log("확인용 => ", $(`div#map_container > div.map:eq(\${index})`).html()); //
+				 
 			         $("div#tab > button").removeClass("tab_active");
 			         $(e.target).addClass("tab_active");
 			   
